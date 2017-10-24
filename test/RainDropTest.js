@@ -46,10 +46,7 @@ describe('Test for invalid input', () =>{
 	});
 
 
-})	/*it(rainDrop(-13), (){
-	expect( (){ parser.parse(raw); } ).toThrow(new Error("Please Enter a Positive number"))
-	});
-})*/
+})	
 
 
 //Test for failed test cases
